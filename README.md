@@ -4,12 +4,12 @@
 
 Download:
 
-    - https://software.annas-archive.li/AnnaArchivist/annas-archive/-/blob/main/isbn_images/aa_isbn13_codes_20241204T185335Z.benc.zst
+    - [aa_isbn13_codes_20241204T185335Z.benc.zst](https://software.annas-archive.li/AnnaArchivist/annas-archive/-/blob/main/isbn_images/aa_isbn13_codes_20241204T185335Z.benc.zst)
 
 or other snapshot and place it in the root
 
 Install:
-    - vips https://www.libvips.org/
+    - [vips](https://www.libvips.org/)
 
 Create folders:
     - images
